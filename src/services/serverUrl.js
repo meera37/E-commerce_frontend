@@ -1,0 +1,1 @@
+export const serverUrl ='https://e-commerce-backend-90bd.onrender.com'
